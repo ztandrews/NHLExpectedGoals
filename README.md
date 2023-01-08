@@ -7,6 +7,18 @@
 ### https://twitter.com/StatsByZach
 
 ---
-### About
+### Intro
 
 This is my NHL Expected Goals model project. The proejct is a Python Machine Leanring project that predicts the probabilty that a given NHL shot will result in a goal. This repo also contains various data analyiss programs to draw conclusions from the data. I espically do work visualizing the data in a way that makes the overwheling amnount of data easy to understand.
+
+### What are Expected Goals
+
+### Data Source
+
+### Pre-Processing
+
+### The Model
+
+### Performance
+
+### Data Vis
